@@ -44,7 +44,7 @@ Historical movie. Songs will be remembered. The movie is going to be referenced.
 ## Thor: Ragnarok
 Lovely characters are the real assests that Marvel Cinematics Universe has at this time.  Short-cut Thor, Slicked-back hair Hella, Chatty Hulk, eccentic Grandmaster and my Valkyrie revived once too classic series based on a myth and redesigned it. A small tweak of an idea made a real difference. A colorful discotic comedy Thor movie gave me absolutely delightful time. Specially the theme song, the two scenes with the eheheh sound were the most chilling moments of the year. I say Ragnarok is one of top 3 best MCU movies with Civil War and Winter Soldier.
 # 2018
-* Since the one and only jury of the Moon’s choice was serving his country in the military as a drill instructor for the 15th Infantry Division of Republic of Korea, from June 2017 to March 2019, very few films and shows were appreciated at this period of time.
+* Since the one and only jury of the Choice was serving his country in the military as a drill instructor for the 15th Infantry Division of Republic of Korea, from June 2017 to March 2019, very few films and shows were appreciated at this period of time.
 ## 남자친구 (ENCOUNTER), 2018~2019
 Korean Laland , Don Quijote and Sleeping Beauty.
 # 2019
