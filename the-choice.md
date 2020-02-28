@@ -1,4 +1,3 @@
-
 # The Founding Purpose
 To draw attention to each person’s own emotions developed from any form of cinema and changes of oneself through the cinematic experience: {watching, digesting and evolving}, with the aim of countering evaluation of cinema by mass media, SNS, and critics of acclaimed journals.
 Moon’s Choice Awards serves to highlight the importance of personal emotions and changes through the cinematic experience which differs from person to person due to the fact that every person has own distinct background and identity. Especially, the Choice focuses on works that have personal impacts on Moon, the one and only jury of the Choice, and are guaranteed to make a very personal choices but to have a strong impact on the meanings of watching films around the world. 
