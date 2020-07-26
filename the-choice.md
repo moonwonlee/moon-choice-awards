@@ -46,7 +46,7 @@ Lovely characters are the real assests that Marvel Cinematics Universe has at th
 # 2018
 * Since the one and only jury of the Choice was serving his country in the military as a drill instructor for the 15th Infantry Division of Republic of Korea, from June 2017 to March 2019, very few films and shows were appreciated at this period of time.
 ## 남자친구 (ENCOUNTER), 2018~2019
-Korean Laland , Don Quijote and Sleeping Beauty.
+Korean Laland, Don Quijote and Sleeping Beauty.
 # 2019
 ## Unicorn Store
 I don’t wanna grow up.
@@ -63,3 +63,5 @@ Another story to tell. But would there be more?
 Original story that is captivating, funny, and perfect.
 ## Peanut Butter Falcon
 Anyone can wrestle, and become a friend to a nice person.
+## Sully
+
