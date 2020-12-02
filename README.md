@@ -8,9 +8,9 @@ All eligible motion pictures, unless otherwise noted , can be anything, released
 2. short film length
 3. publicly exhibited by means of 35mm or 70mm film, or in a 24- or 48-frame progressive scan Digital Cinema format
 4. for paid or unpaid admission/subscription in a commercial/non-commercial motion picture in any platform (streaming service, theater, public screening), in any country.
-5. Films that, in any version, receive their first public exhibition or distribution in any manner will be eligible for the Choice. Nontheatrical public exhibition or distribution includes: • Broadcast and cable television • PPV/VOD • DVD distribution • Inflight airline distribution • Internet transmission
-6. released within the Choice year deadlines: the last day of the year.
-7. The required the Choice qualifying run must begin between Big Bang and midnight of the last day of each year. 
+5. Films that, in any version, receive their first public exhibition or distribution in any manner will be eligible for the Choice. Non Theatrical public exhibition or distribution includes: • Broadcast and cable television • PPV/VOD • DVD distribution • Inflight airline distribution • Internet transmission
+7. released within the Choice year deadlines: the last day of the year.
+8. Qualifying runs must begin between Big Bang and midnight on the last day of each year.
 # And the Choice goes to...
 ## [The Choices Since 2014](https://github.com/moonwonlee/moon-choice-awards/blob/master/the-choice.md)
 ## This repo will be added to Moon's website in the near future.
