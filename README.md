@@ -1,9 +1,9 @@
 # Moon's Choice Awards
-# The Founding Purpose
+## The Founding Purpose
 To draw attention to each person’s own emotions developed from any form of cinema and changes of oneself through the cinematic experience: {watching, digesting and evolving}, with the aim of countering evaluation of cinema by mass media, SNS, and critics of acclaimed journals.
 
 Moon’s Choice Awards serves to highlight the importance of personal emotions and changes through the cinematic experience which differs from person to person because of the fact that every person has their own distinct background and identity. The Choice focuses on works that have personal impacts on Moon, the one and only jury of the Choice, and are guaranteed to make very personal choices but to have a strong impact on the meanings of watching films around the world.
-# Rules & Eligibility
+## Rules & Eligibility
 All eligible motion pictures, unless otherwise noted, can be anything, released anytime, and in any format.
 1. feature length (defined as over 40 minutes),
 2. short film length
@@ -13,6 +13,6 @@ All eligible motion pictures, unless otherwise noted, can be anything, released 
 6. released within the Choice year deadlines: the last day of the year.
 7. Qualifying runs must begin between Big Bang and midnight on the last day of each year.
 
-# And the Choice goes to...
-## [The Choice Since 2014](https://github.com/moonwonlee/moon-choice-awards/blob/master/the-choice.md)
-## This repo will be added to Moon's website in the near future.
+## And the Choice goes to...
+### [The Choice Since 2014](https://github.com/moonwonlee/moon-choice-awards/blob/master/the-choice.md)
+### This repo will be added to Moon's website in the near future.
