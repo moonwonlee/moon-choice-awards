@@ -1,15 +1,17 @@
 # The Founding Purpose
 To draw attention to each person’s own emotions developed from any form of cinema and changes of oneself through the cinematic experience: {watching, digesting and evolving}, with the aim of countering evaluation of cinema by mass media, SNS, and critics of acclaimed journals.
-Moon’s Choice Awards serves to highlight the importance of personal emotions and changes through the cinematic experience which differs from person to person due to the fact that every person has own distinct background and identity. Especially, the Choice focuses on works that have personal impacts on Moon, the one and only jury of the Choice, and are guaranteed to make a very personal choices but to have a strong impact on the meanings of watching films around the world. 
+
+Moon’s Choice Awards serves to highlight the importance of personal emotions and changes through the cinematic experience which differs from person to person because of the fact that every person has their own distinct background and identity. The Choice focuses on works that have personal impacts on Moon, the one and only jury of the Choice, and are guaranteed to make very personal choices but to have a strong impact on the meanings of watching films around the world.
+
 # Rules & Eligibility
-All eligible motion pictures, unless otherwise noted , can be anything, released anytime, and in any format.
+All eligible motion pictures, unless otherwise noted, can be anything, released anytime, and in any format.
 1. feature length (defined as over 40 minutes),
 2. short film length
 3. publicly exhibited by means of 35mm or 70mm film, or in a 24- or 48-frame progressive scan Digital Cinema format
 4. for paid or unpaid admission/subscription in a commercial/non-commercial motion picture in any platform (streaming service, theater, public screening), in any country.
-5. Films that, in any version, receive their first public exhibition or distribution in any manner will be eligible for the Choice. Non Theatrical public exhibition or distribution includes: • Broadcast and cable television • PPV/VOD • DVD distribution • Inflight airline distribution • Internet transmission
-7. released within the Choice year deadlines: the last day of the year.
-8. Qualifying runs must begin between Big Bang and midnight on the last day of each year.
+5. films that, in any version, receive their first public exhibition or distribution in any manner will be eligible for the Choice. Non Theatrical public exhibition or distribution includes: • Broadcast and cable television • PPV/VOD • DVD distribution • Inflight airline distribution • Internet transmission
+6. released within the Choice year deadlines: the last day of the year.
+7. Qualifying runs must begin between Big Bang and midnight on the last day of each year.
 
 # And the Choice goes to...
 # 2014
@@ -66,4 +68,35 @@ This is what movies are for: Original story-telling that is captivating, funny w
 ## Peanut Butter Falcon
 Anyone can wrestle and become a good friend to a nice person.
 ## 2001: A Space Odyssey
-The Odyssey is not for those who want short and quick answers in no time. This movie here from 1968 (note that UNIX development was started in 1969) makes you think, confused and just leave with the historic theme song by Richard Strauss. I believe the song represents the greatness and the overall theme of this film, but you may have a different opinion on this. The production design eclipses most of the films from this century. Great space films such as Martian, Interstellar, Ad Astra or Gravity tried to show off their own imagination of how space travel would look like in future and achieve the goal with marginal improvement from the Odyssey. The Odyssey changed the whole game 50 years ago. The Odyssey is definitely ahead of its time in that the visual and the questions that it throws cannot be more relevant today. Stanley Kubrick is just an amazing guy.
+The Odyssey is not for those who want short and quick answers in no time. This movie here from 1968 (note that UNIX development was started in 1969) makes you think, confused and leave with the historic theme song by Richard Strauss. The song represents the greatness and the theme of this film, but you may have a different opinion. The production design eclipses most of the films from this century. Great space films such as Martian, Interstellar, Ad Astra or Gravity tried to show off their own imagination of how space travel and life would look like in future but only achieve the goal with marginal improvement from the Odyssey. The Odyssey changed the whole game 50 years ago. The Odyssey is definitely ahead of its time in that the visual is still stunning and the questions that it throws cannot be more relevant today. Stanley Kubrick is just an amazing guy.
+# 2021
+## 1917
+# All-time Best Action Movies
+#### The Bourne series
+#### The Rock
+#### SKYFALL
+#### Mad Max: Fury Road
+#### Sicario
+#### 300
+#### Mission: Impossible III, Ghost Protocol, Rogue Nation, Fallout
+# All-time Best Christmas Movies
+#### Edward Scissorhands
+#### Silver Linings Playbook
+#### Tim Burton's The Nightmare Before Christmas
+#### Greenbook
+#### Home Alone 1, 2
+#### Love Actually
+#### The Harry Potter Series
+# All-time Best Movies
+#### The Dark Knight
+#### Pirates of the Carribean: Dead Man's Chest, At World’s End
+#### La La Land
+#### The Toy Story Series
+#### Django Unchained
+#### The Social Network
+#### Whiplash
+#### Ratatouille
+#### Tarzan (1999)
+#### The Lion King (1994)
+#### The Matrix
+#### Aladdin (1992)
