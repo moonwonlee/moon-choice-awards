@@ -14,5 +14,5 @@ All eligible motion pictures, unless otherwise noted, can be anything, released 
 7. Qualifying runs must begin between Big Bang and midnight on the last day of each year.
 
 # And the Choice goes to...
-## [The Choices Since 2014](https://github.com/moonwonlee/moon-choice-awards/blob/master/the-choice.md)
+## [The Choice Since 2014](https://github.com/moonwonlee/moon-choice-awards/blob/master/the-choice.md)
 ## This repo will be added to Moon's website in the near future.
