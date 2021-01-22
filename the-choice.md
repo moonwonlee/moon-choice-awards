@@ -89,7 +89,7 @@ The Odyssey is not for those who want short and quick answers in no time. This m
 #### The Harry Potter Series
 # All-time Best Movies
 #### The Dark Knight
-#### Pirates of the Carribean: Dead Man's Chest, At World’s End
+#### Pirates of the Caribbean: Dead Man's Chest, At World’s End
 #### La La Land
 #### The Toy Story Series
 #### Django Unchained
