@@ -71,6 +71,10 @@ Anyone can wrestle and become a good friend to a nice person.
 The Odyssey is not for those who want short and quick answers in no time. This movie here from 1968 (note that UNIX development was started in 1969) makes you think, confused and leave with the historic theme song by Richard Strauss. The song represents the greatness and the theme of this film, but you may have a different opinion. The production design eclipses most of the films from this century. Great space films such as Martian, Interstellar, Ad Astra or Gravity tried to show off their own imagination of how space travel and life would look like in future but only achieve the goal with marginal improvement from the Odyssey. The Odyssey changed the whole game 50 years ago. The Odyssey is definitely ahead of its time in that the visual is still stunning and the questions that it throws cannot be more relevant today. Stanley Kubrick is just an amazing guy.
 # 2021
 ## 1917
+## Soul
+## Chernobyl
+
+
 # All-time Best Action Movies
 #### The Bourne series
 #### The Rock
