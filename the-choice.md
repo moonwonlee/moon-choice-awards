@@ -73,7 +73,6 @@ The Odyssey is not for those who want short and quick answers in no time. This m
 ## 1917
 ## Soul
 ## Chernobyl
-## Soul
 
 # All-time Best Action Movies
 #### The Bourne series
