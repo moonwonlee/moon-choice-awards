@@ -73,7 +73,11 @@ The Odyssey is not for those who want short and quick answers in no time. This m
 ## 1917
 ## Soul
 ## Chernobyl
-
+This can't be true.
+## The Artist
+Cinema magic
+## Spider-Man: No Way Home
+The stacked emotions and stakes of three generations of friendly Spider-men.
 # All-time Best Action Movies
 #### The Bourne series
 #### The Rock
