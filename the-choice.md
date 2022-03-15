@@ -24,7 +24,7 @@ Feelings are hard to describe. And this film is all about feelings. This film ch
 ## Captain America : Winter Soldier
 Action should always serve a certain purpose. Action can reveal character, move a story forward and tell emotions. Never use Action for itself. It is fun to watch it in the middle of films. But when the end credits appear, it is all but emptiness you are left to feel, because you wasted your time.
 # 2015
-## Inglorious Bastards
+## Inglorious Basterds
 The very first time I thought, a movie can be fucking cool.
 ## Whiplash
 The intensity. It is like someone keeps slapping you in your face to make you keep focus.
